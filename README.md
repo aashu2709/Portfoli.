@@ -5,8 +5,11 @@ Welcome to my portfolio website! This site showcases my work, skills, and experi
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
+
+## Live Demo
+
+You can view the live version of the website here: [Live Demo](portfoli-dev.vercel.app
+)
